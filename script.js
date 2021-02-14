@@ -5,7 +5,7 @@ window.onload = function () {
             'Press Ok so that the essential scripts can be loaded and you can enjoy this beutifull website!!!'
         )
     ) {
-        location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
+        location.href = 'https://youtu.be/dQw4w9WgXcQ';
         txt = 'Rickrolled';
     } else {
         txt =
